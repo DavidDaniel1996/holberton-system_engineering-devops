@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Displays active IPv4 IPs on current machine
+ifconfig | grep -Eo "inet (\d*\S*)" | cut -b 6-
+
