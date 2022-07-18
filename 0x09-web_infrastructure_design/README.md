@@ -5,7 +5,7 @@
 ## Description:
 
 ---
-_This project goes through different web insfrastructures, designing a flow chart for each one.
+_This project goes through different web insfrastructures, designing a flow chart for each one._
 
 ## Designs Presented
 
